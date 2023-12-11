@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+    <link rel="stylesheet" href="/Projeto Alura/styles/styles.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho_menu">
+            <a class="cabecalho_menu_links" href="index.html">Home</a>
+            <a class="cabecalho_menu_links" href="about.html">Sobre mim</a>
+            <a class="cabecalho_menu_links" href="curriculo.html"> Curriculo</a>
+        </nav>
+    </header>
+    
+    <main class="curriculo_principal">
+        <section class="curriculo_curriculo" >
+            <h1 class="curriculo_titulo" >Currículo</h1>
+            <h2 class="curriculo_dados" > Arthur dos Santos Alencar</h2>
+            <p class="curriculo_dados" > <strong class="dados_destaque"> Contato: </strong> (41) 99581-0375 </p>
+            <p class="curriculo_dados" > <strong class="dados_destaque"> Email: </strong> arthuralencar829@gmail.com</p>
+            <p class="curriculo_dados" > <strong class="dados_destaque"> Endereço: </strong> Uberaba - Curitiba/Paraná - 81590-340, Brasil.</p>
+
+        <section class="teste_titulo" >
+            <h2 class="experiencia_titulo" > Experiências </h2>
+            <h3 class="experiencia_subtitulo">Auxiliar de TI</h3>
+            <h4 class="experiencia_subtitulo_empresa"> JoaoMed Comercio de Materiais Cirurgicos SA | Curitiba-PR JUN 2023 - ATUAl </h4>
+            <p class="experiencia_dados"> • Experiência em suporte a usuários, servidores, infraestrutura (redes) e configuração de hardware e software</p>
+            <p class="experiencia_dados"> • Suporte técnico N1 local ou remoto.</p>
+            <p class="experiencia_dados"> • Experiência com Manutenção de Computadores, Notebook, Celulares e Impressora.</p>
+            <p class="experiencia_dados"> • Experiência com Windows e Linux</p>
+            <p class="experiencia_dados"> • Experiência em Instalação de Sistemas Operacionais.</p>
+        </section>
+            <h2 class="estudos_titulo" > Estudos </h2>
+            <p class="estudo_curso" > HTML E CSS: AMBIENTES DE DESENVOLVIMENTO, ESTRUTURA DE ARQUIVOS E TAGS - Alura Cursos <a class="destaque_estudo" href="https://cursos.alura.com.br/certificate/ee698642-20d8-4490-9200-329edb4e7c0a?lang=pt_BR">com certificado</a> </p>
+            <p class="estudo_curso" > HTML E CSS: CLASSES, POSICIONAMENTO E FLEXBOX - Alura Cursos <a class="destaque_estudo" href="https://cursos.alura.com.br/certificate/a089a5bc-6840-4d41-bbf7-6ea97f00e575?lang=pt_BR">com certificado</a></strong> </p>
+        </section>
+
+        <img class="imagem_curriculo" src="/Projeto Alura/img/img html.png" width="1000px" height="350px" >
+
+
+   
+    </main>
+    <Footer>
+        <p class="rodape"> Desenvolvido por Arthur Alencar</p>
+    </Footer>
+</body>
+</html>
